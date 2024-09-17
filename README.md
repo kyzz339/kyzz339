@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyzz339&layout=compact)](https://github.com/kyzz339/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyzz339&show_icons=true&theme=dark)
 <!--
 **kyzz339/kyzz339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
