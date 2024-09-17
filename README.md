@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kyzz339&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyzz339&show_icons=true&theme=dark)
+
+(https://github-readme-stats.vercel.app/api?username=kyzz339&show_icons=true&theme=dark)
 <!--
 **kyzz339/kyzz339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
