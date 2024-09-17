@@ -1,7 +1,12 @@
 ## Hi there 👋
 
+:email: e-mail : kyzz339@gmail.com <br>
+<img src="https://github.com/user-attachments/assets/bb1495a9-117e-465f-9974-0a8164d2dc48" style="width:15px; height:13px;">
+notion : https://bit.ly/3XaOYuC<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyzz339&show_icons=true&theme=dark)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyzz339&layout=compact&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=kyzz339&show_icons=true&theme=dark">
 <!--
 **kyzz339/kyzz339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
